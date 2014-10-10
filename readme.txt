@@ -1,4 +1,4 @@
-=== Securimage-WP ===
+=== Securimage-WP-Fixed ===
 Contributors: drew010, jehy
 Author URI: http://jehy.ru/articles
 Tags: CAPTCHA, comments, spam protection, comment form
