@@ -329,9 +329,7 @@ function siwp_generate_code($captchaId, Securimage $si)
 
   #update everything in case we already had this user
 	$rows=$wpdb->query(
-			$wpdb->prepare("UPDATE $table_name set  code=%s,code_display=%s,created=%s where id=%s
-					VALUES
-					(%s, %s, %s, %s);",
+			$wpdb->prepare("UPDATE $table_name set  code=%s,code_display=%s,created=%s where id=%s",
 					$code['code'], $code['display'], time(),$captchaId)
 	);
   if($rows===0)
