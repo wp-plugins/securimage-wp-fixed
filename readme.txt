@@ -6,7 +6,7 @@ Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 3.5.3
 
-Securimage-WP adds powerful CAPTCHA protection to comment forms on posts and pages to help prevent comment spam from getting onto your site.  CAPTCHA images are highly customizable, and support audio output.
+Securimage-WP adds powerful CAPTCHA protection to comment forms on posts and pages to help prevent comment spam from getting onto your site.
 
 == Description ==
 Securimage-WP-Fixed is a fixed and improved version of Securimage-WP plugin which was removed from wordpress plugins due to XSS vulnerability.
