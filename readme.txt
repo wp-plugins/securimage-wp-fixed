@@ -41,6 +41,10 @@ XSS vulnerability fix and other improvements from 3.5.3 version by [Jehy](http:/
 
 You can also use [Secureimage-WP-REG plugin](https://wordpress.org/plugins/securimage-wp-reg/) to protect your registration page with this plugin.
 
+####Donate or help?
+If you want to ensure the future development and support of this plugin, you can make donation [on this page](http://jehy.ru/articles/donate/) or just write about this plugin in your blog.
+
+
 == Installation ==
 
 Installation of Securimage-WP is simple.
